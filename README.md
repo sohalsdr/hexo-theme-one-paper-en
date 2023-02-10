@@ -11,11 +11,11 @@ I forked this theme so that I would be able to use this theme for my own persona
 ### Translation of the original author's description
 
 > This is a [Hexo](https://hexo.io/) theme designed and developed in February 2022.
-
+>
 > This is a "small and beautiful" theme. To be honest, it should be called a skin instead of a theme, but what does that matter :-)
-
+>
 > I don't want to make this theme big and comprehensive. It's simply intended for writing, and you can also understand it as a blog in the traditional sense. This theme focuses on being simple, clean, and lightweight. It's first visual effect is a blank page, aiming to simulate the feeling of reading on real paper.
-
+>
 > I'm trying to keep up with the official functionality, without adding any extra unless necessary.
 
 
