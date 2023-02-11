@@ -1,5 +1,6 @@
 <div class="header">
     <a class="logo" href="<%- url_for() %>"><%= config.title %></a>
+    <a class="sublogo"><%= config.subtitle %></a>
     <ul class="nav">
         <% for (name in theme.menu) { %>
         <li><a href="<%- url_for(theme.menu[name]) %>"><%= name %></a></li>
