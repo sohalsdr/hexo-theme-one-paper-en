@@ -1,12 +1,10 @@
-![](https://raw.githubusercontent.com/sohalsdr/hexo-theme-one-paper-en/main/source/img/one-paper.png)
-
-
+# One Paper Hexo Theme (en)
 
 ### Fork Notes
 
 I forked this theme so that I would be able to adapt it for my own personal use, translate Chinese elements in the code into English ones for my use case, and make modifications for my particular use case. **I do not read or write Chinese**, so this translated README has been assembled based on Google Translate and my best guesses as to what it's supposed to mean.
 
-
+---
 
 ### Translation of the original author's description
 
@@ -18,12 +16,13 @@ I forked this theme so that I would be able to adapt it for my own personal use,
 >
 > I'm trying to keep up with the official functionality, without adding any extra unless necessary.
 
+---
 
  ### Live Demo
 
  [https://zheli.design/one-paper](https://zheli.design/one-paper) *(Note: This demo is hosted by the original theme author, and is in Chinese. Google Translate doesn't seem to be able to translate the entire page either. This demo also uses the **Montserrat** font, rather than the **Inter** font that the current version of the theme uses. A live-demo of this fork will be created soon)*
 
-
+---
 
  ### Theme Features
 
@@ -34,7 +33,7 @@ I forked this theme so that I would be able to adapt it for my own personal use,
  -   Template pages: Home Page, Article, Detailed Page, Archive Page, and Single Page
  -   No comment space
 
-
+---
 
 ### Install
 
@@ -43,7 +42,7 @@ I forked this theme so that I would be able to adapt it for my own personal use,
  3. Open `<your-hexo-site>/_config.yml` in your favorite text editor, and change the `theme` line to read `theme: hexo-theme-one-paper-en`.
  4. Run `hexo generate` and then `hexo s` to preview the site and make sure everything's working!
 
-
+---
 
 ### Fonts
 
@@ -77,7 +76,7 @@ body
 }
 ```
 
-
+---
 
 ### Fix Code Highlighting
 
@@ -90,20 +89,22 @@ prismjs:
   enable: false
 ```
 
-
+---
 
 ### Replacing the Favicon
 
 Replace `source/img/favicon.png` with your favicon. 
 
-
+---
 
 ### Credits
 
 Original Theme Author: [zheli design](https://zheli.design/)
 
-
+---
 
 ### Copyright
 
 This theme is governed by the [MIT License](https://mit-license.org/).
+
+---
