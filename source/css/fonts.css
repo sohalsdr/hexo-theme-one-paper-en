@@ -1,47 +1,51 @@
-/* montserrat-regular - latin */
+/* Inter Regular (400) */
 
 @font-face
 {
-    font-family: "Montserrat";
+    font-family: "Inter";
     font-style: normal;
     font-weight: 400;
+    font-display: swap;
     src: local(""),
-        url("../fonts/montserrat-v23-latin-regular.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
-        url("../fonts/montserrat-v23-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        url("../fonts/inter/Inter-Regular.woff2?v=3.19") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url("../fonts/inter/Inter-Regular.woff?v=3.19") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* montserrat-600 - latin */
+/* Inter ExtraBold (800) */
 
 @font-face
 {
-    font-family: "Montserrat";
+    font-family: "Inter";
     font-style: normal;
-    font-weight: 600;
+    font-weight: 800;
+    font-display: swap;
     src: local(""),
-        url("../fonts/montserrat-v23-latin-600.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
-        url("../fonts/montserrat-v23-latin-600.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        url("../fonts/inter/Inter-ExtraBold.woff2?v=3.19") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url("../fonts/inter/Inter-ExtraBold.woff?v=3.19") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* montserrat-italic - latin */
+/* Inter Regular Italic (400) */
 
 @font-face
 {
-    font-family: "Montserrat";
+    font-family: "Inter";
     font-style: italic;
     font-weight: 400;
+    font-display: swap;
     src: local(""),
-        url("../fonts/montserrat-v23-latin-italic.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
-        url("../fonts/montserrat-v23-latin-italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        url("../fonts/inter/Inter-Italic.woff2?v=3.19") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url("../fonts/inter/Inter-Italic.woff?v=3.19") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* montserrat-600italic - latin */
+/* Inter ExtraBold Italic (800) */
 
 @font-face
 {
-    font-family: "Montserrat";
+    font-family: "Inter";
     font-style: italic;
-    font-weight: 600;
+    font-weight: 800;
+    font-display: swap;
     src: local(""),
-        url("../fonts/montserrat-v23-latin-600italic.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
-        url("../fonts/montserrat-v23-latin-600italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        url("../fonts/inter/Inter-ExtraBoldItalic.woff2?v=3.19") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url("../fonts/inter/Inter-ExtraBoldItalic.woff?v=3.19") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
