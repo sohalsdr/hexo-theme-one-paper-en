@@ -20,7 +20,7 @@ I forked this theme so that I would be able to adapt it for my own personal use,
 
  ### Live Demo
 
- [https://zheli.design/one-paper](https://zheli.design/one-paper) *(Note: This demo is hosted by the original theme author, and is in Chinese. Google Translate doesn't seem to be able to translate the entire page either. This demo also uses the **Montserrat** font, rather than the **Inter** font that the current version of the theme uses. A live-demo of this fork will be created soon)*
+ [https://zheli.design/one-paper](https://zheli.design/one-paper) *(Note: This demo is hosted by the original theme author, and is in Chinese. Google Translate doesn't seem to be able to translate the entire page either. This demo also uses the **Montserrat** font, rather than the **Inter** font that the current version of the theme uses.)*
 
 ---
 
@@ -46,7 +46,7 @@ I forked this theme so that I would be able to adapt it for my own personal use,
 
 ### Fonts
 
-This theme includes and uses Rasmus Andersson's [Inter](https://github.com/rsms/inter) typeface. The original Chinese version of this theme used Google's [Montserrat](https://fonts.google.com/specimen/Montserrat) typeface, but I opted to switch to Inter to improve readability, particularly when it comes to distinguishing headings. **The Montserrat font files are still included in the theme repository.
+This theme includes and uses Rasmus Andersson's [Inter](https://github.com/rsms/inter) typeface. The original Chinese version of this theme used Google's [Montserrat](https://fonts.google.com/specimen/Montserrat) typeface, but I opted to switch to Inter to improve readability, particularly when it comes to distinguishing headings. **The Montserrat font files are still included in the theme repository**.
 
 #### To switch back to Montserrat:
 
